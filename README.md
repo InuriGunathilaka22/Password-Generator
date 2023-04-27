@@ -14,7 +14,9 @@
 [Try it!](https://inurigunathilaka-password-generator.netlify.app/)
 
 ### Demo
-https://user-images.githubusercontent.com/49382745/197649261-03689f11-956f-407e-9eaa-acb922802130.mp4
+https://github.com/InuriGunathilaka22/Password-Generator/blob/64cc9e170e576839d9257e9ef70797c69f759009/Screen%20recorder.mp4
+
+
 
 ## 🚀 Tech Stack
 
